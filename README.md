@@ -1,2 +1,2 @@
 # EDUONIX-ASSIGNMENTS
-This is the assignment number 1 which relates to HTML language.
+In this repository all the assignments are present which are taken care of by eduonix only
